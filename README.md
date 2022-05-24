@@ -5,5 +5,12 @@ Context: The leading cause of death in the developed world is heart disease. The
 
 Content: Use this dataset to predict which patients are most likely to suffer from a heart disease in the near future using the features given.
 
-Acknowledgement: This data comes from the University of California Irvine's Machine Learning Repository at https://archive.ics.uci.edu/ml/datasets/Heart+Disease.
+The ML and DL models used are
+  1. Decision tree 
+  2. Bagging
+  3. Random forest
+  4. XGBoosting
+  5. Logistic Regression
+  6. KNeighbors
+  7. Artificial Neural Network
 
